@@ -25,7 +25,7 @@ HYPOTHETICAL take-private of the business.
 <img width="923" height="742" alt="image" src="https://github.com/user-attachments/assets/a00a19cc-a156-46f3-8695-5862af31ed0b" />
 <img width="1066" height="678" alt="image" src="https://github.com/user-attachments/assets/a624efd9-fbbb-4dd6-9363-3847e1dd8058" />
 <img width="737" height="309" alt="image" src="https://github.com/user-attachments/assets/cb8ba018-d92c-48ee-99aa-665dc0bfed2f" />
-<img width="734" height="576" alt="image" src="https://github.com/user-attachments/assets/8b221eb0-0d73-4d3b-bc15-96d64a32772a" />
+<img width="874" height="699" alt="image" src="https://github.com/user-attachments/assets/36b7942b-1bbd-4add-8be8-370d7314af92" />
 <img width="732" height="744" alt="image" src="https://github.com/user-attachments/assets/2fe08378-691f-4d7b-bebd-f713856e908e" />
 
 
